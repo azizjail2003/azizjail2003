@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently a software engineering in SUPMTI Rabat<br>I'm currently learning python for data science<br>"Programming is theoratical, but the fun is real", me
+I'm currently a software engineering in SUPMTI Rabat<br>I'm currently learning python for data science<br>"Programming is theoratical, but the fun is real"
 
 
 ## 🌐 Socials:
