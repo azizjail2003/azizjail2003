@@ -10,11 +10,9 @@
 ## 🚀 About Me
 
 - 🎓 BSc in **Computer Systems Engineering** — SUPMTI Rabat
-- 💼 **2 years** as a Backend Developer in a startup, shipping APIs and web applications
+- 💼 **3 years** as a Backend Developer, shipping APIs and web applications
 - 🤖 Focused on **applied AI**: fine-tuning models and integrating ML into real-world web products
-- 🌱 Currently working toward an **MSc in Artificial Intelligence / Machine Learning**
 - 🗣️ Arabic (native) · French · English · Spanish (basic)
-- ⚽ Volunteered at **AFCON 2025** in an international, multilingual environment
 
 > *"Programming is theoretical, but the fun is real."*
 
