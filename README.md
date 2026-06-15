@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a Backend Developer with 2 years of experience building APIs and web applications.<br>BSc in Computer Systems Engineering — SUPMTI Rabat.<br>Currently focused on applied AI: integrating ML models into real-world web products.<br>"Programming is theoretical, but the fun is real."
+I'm a Backend Developer with 3 years of experience building APIs and web applications.<br>BSc in Computer Systems Engineering — SUPMTI Rabat.<br>Currently focused on applied AI: integrating ML models into real-world web products.<br>"Programming is theoretical, but the fun is real."
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/azizj12) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/azizjail.15) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/3aziz.exe) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abdelazizjail) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/3azizjail) 
 # 💻 Tech Stack:
